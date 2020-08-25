@@ -1,0 +1,10 @@
+.wrapper{
+    height: 630px;
+    background-color: chocolate;
+}
+.box{
+    padding: 100px;
+    height: 290px;
+    width: 250px;
+    border: solid 5px greenyellow;
+}
